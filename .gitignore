@@ -32,7 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-src/main/java/com/habib/workout_tracker/config
 src/main/java/com/habib/workout_tracker/repository
 src/main/java/com/habib/workout_tracker/security
 
